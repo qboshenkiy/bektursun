@@ -23,5 +23,3 @@ urlpatterns = [
     path('addTodoItem/',addTodoView),
     path('deleteTodoItem/<int:i>/', deleteTodoView),
 ]
-git remote add origin git@github.com:qboshenkiy/bektursun.git
-git push -u origin main
